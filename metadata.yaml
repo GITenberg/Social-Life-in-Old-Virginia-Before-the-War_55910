@@ -1,0 +1,44 @@
+_repo: Social-Life-in-Old-Virginia-Before-the-War_55910
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Cowles, Genevieve
+    aliases:
+    - Cowles, Genevieve Almeda
+    - Cowles, G. (Genevieve)
+    birthdate: &id001 1871
+    gutenberg_agent_id: '48576'
+    url: http://www.gutenberg.org/2009/agents/48576
+  - agent_name: Cowles, Maude
+    aliases:
+    - Cowles, Maud
+    - Cowles, Maude Alice
+    - Cowles, M. (Maude)
+    birthdate: *id001
+    deathdate: 1905
+    gutenberg_agent_id: '48871'
+    url: http://www.gutenberg.org/2009/agents/48871
+creator:
+  author:
+    agent_name: Page, Thomas Nelson
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '184'
+    url: http://www.gutenberg.org/2009/agents/184
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
+description: ''
+gutenberg_issued: '2017-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55910'
+  lccn: '2009459649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Virginia -- Social life and customs'
+- GITenberg
+title: Social Life in Old Virginia Before the War
+url: http://www.gutenberg.org/ebooks/55910
